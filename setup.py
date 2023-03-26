@@ -20,9 +20,9 @@ rootdir = Path(__file__).parent
 long_description = (rootdir / "README.md").read_text()
 
 setup(
-    name="{ component_name }",
+    name="lightning_pynecone",
     package_dir={"": "src"},
-    packages=["{ component_name }"],
+    packages=["lightning_pynecone"],
     version="0.0.1",
     description="",
     long_description=long_description,
