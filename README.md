@@ -14,4 +14,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License. -->
 
-A [Pynecone](https://pynecone.io) integration for [LightninAI](https://lightning.ai).
+A [Pynecone](https://pynecone.io) integration for [Lightning AI](https://lightning.ai).
