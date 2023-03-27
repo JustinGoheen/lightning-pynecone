@@ -1,4 +1,4 @@
-# Lightning Component Template
+# Lightning-Pynecone
 
 <!-- # Copyright Justin R. Goheen.
 #
